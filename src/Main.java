@@ -168,10 +168,7 @@ public class Main {
 		 
 		 //=====================================
 		 // MAUSKIN DATA
-		 	//movieIdArr = new ArrayList<>();
-		 	//movieTitleArr = new ArrayList<>();
-		 	// genreArr = new ArrayList<>();
-			//ratingArr = new ArrayList<>();
+		 
 		 
 		 movieIdArr.add(id);
 		 movieTitleArr.add(title);
@@ -229,21 +226,13 @@ public class Main {
 				  }
 			  }
 		}
-		  // NO, ID, TITLE, GENRE, RATING
-		  // PRINT FORMAT BIAR BISA JADI TABEL
-		  // printf
-		  // %d --> int
-		  // %s --> string
-		  // %-3s, %3s
+		 
 		  
 		  System.out.println("========================");
 		  System.out.println("NO | ID | TITLE | GENRE  | RATING");
 		  System.out.println("========================");
 		  
-		  	//movieIdArr = new ArrayList<>();
-		 	//movieTitleArr = new ArrayList<>();
-		 	// genreArr = new ArrayList<>();
-			//ratingArr = new ArrayList<>();
+		  	
 		  
 		  for (int i = 0; i < n; i++) {
 			  
